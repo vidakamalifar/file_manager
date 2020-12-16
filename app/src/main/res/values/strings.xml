@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">File Manager</string>
+    <string name="chronologically">Chronologically</string>
+    <string name="extension">Extension</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
+    <string name="sort_by">Sort by</string>
+    <string name="date">Date</string>
+    <string name="type">Type</string>
+    <string name="order">Order</string>
+    <string name="name">Name</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
 </resources>
