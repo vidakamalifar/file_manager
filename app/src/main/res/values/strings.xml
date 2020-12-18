@@ -11,4 +11,11 @@
     <string name="name">Name</string>
     <string name="cancel">Cancel</string>
     <string name="done">Done</string>
+    <string name="permission_granted">Permission Granted, We have access to storage</string>
+    <string name="permission_denied">Permission Denied, We don\'t have access to storage</string>
+    <string name="permission_text">Write External Storage permission allows us to read and write files. Please allow this.</string>
+    <string name="kb">\" KB\"</string>
+    <string name="file_size">File size</string>
+    <string name="file_created">File created</string>
+    <string name="file_modified_date">File modified date</string>
 </resources>

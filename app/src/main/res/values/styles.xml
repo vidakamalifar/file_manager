@@ -1,6 +1,6 @@
 <resources>
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
@@ -22,12 +22,27 @@
         <item name="android:textSize">16sp</item>
         <item name="android:padding">@dimen/padding_title_text_view</item>
     </style>
+    <style name="SmallTitleTextViewStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:layout_marginLeft">@dimen/margin_left_small_title_text_view_14dp</item>
+        <item name="android:layout_marginStart">@dimen/margin_left_small_title_text_view_14dp</item>
+        <item name="android:padding">@dimen/padding_small_title_text_view_2dp</item>
+    </style>
 
     <style name="MyTextViewStyle" parent="android:Widget.TextView">
         <item name="android:textColor">@color/black</item>
         <item name="android:textStyle">normal</item>
         <item name="android:textSize">14sp</item>
         <item name="android:padding">@dimen/padding_title_text_view</item>
+    </style>
+    <style name="DetailTextViewStyle" parent="android:Widget.TextView">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:paddingBottom">@dimen/padding_title_text_view</item>
+        <item name="android:paddingLeft">@dimen/padding_title_text_view</item>
     </style>
 
     <style name="ButtonStyle" parent="android:Widget.TextView">

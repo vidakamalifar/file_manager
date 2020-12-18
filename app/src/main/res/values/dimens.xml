@@ -6,4 +6,12 @@
     <dimen name="margin_top_button">16dp</dimen>
     <dimen name="padding_radio_button">12dp</dimen>
     <dimen name="padding_title_text_view">16dp</dimen>
+    <dimen name="padding_small_title_text_view_2dp">2dp</dimen>
+    <dimen name="margin_left_small_title_text_view_14dp">14dp</dimen>
+    <dimen name="margin_detail_text_view_14dp">14dp</dimen>
+    <dimen name="padding_detail_text_view_14dp">14dp</dimen>
+    <dimen name="sort_image_padding_5dp">5dp</dimen>
+    <dimen name="sort_image_margin_5dp">5dp</dimen>
+    <dimen name="line_height_1dp">1dp</dimen>
+    <dimen name="margin_line_3dp">3dp</dimen>
 </resources>
