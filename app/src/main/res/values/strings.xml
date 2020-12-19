@@ -18,4 +18,12 @@
     <string name="file_size">File size</string>
     <string name="file_created">File created</string>
     <string name="file_modified_date">File modified date</string>
+    <string name="result"> Result</string>
+    <string name="results"> Results</string>
+    <string name="download_successfully">Result Downloaded Successfully</string>
+    <string name="download_failed">Download fail</string>
+    <string name="not_match_found">No Match found</string>
+    <string name="download_file_list">Download file list</string>
+    <string name="sort">Sort</string>
+    <string name="search">Search</string>
 </resources>
